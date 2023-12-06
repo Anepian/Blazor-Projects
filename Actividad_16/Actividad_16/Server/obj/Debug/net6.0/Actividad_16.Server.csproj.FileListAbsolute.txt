@@ -1,0 +1,159 @@
+C:\Users\lehi_\OneDrive\Escritorio\Actividad_16\Actividad_16\Server\bin\Debug\net6.0\Actividad_16.Client.staticwebassets.runtime.json
+C:\Users\lehi_\OneDrive\Escritorio\Actividad_16\Actividad_16\Server\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\lehi_\OneDrive\Escritorio\Actividad_16\Actividad_16\Server\bin\Debug\net6.0\appsettings.json
+C:\Users\lehi_\OneDrive\Escritorio\Actividad_16\Actividad_16\Server\bin\Debug\net6.0\BlazorDebugProxy\BrowserDebugHost.dll
+C:\Users\lehi_\OneDrive\Escritorio\Actividad_16\Actividad_16\Server\bin\Debug\net6.0\BlazorDebugProxy\BrowserDebugHost.runtimeconfig.json
+C:\Users\lehi_\OneDrive\Escritorio\Actividad_16\Actividad_16\Server\bin\Debug\net6.0\BlazorDebugProxy\BrowserDebugProxy.dll
+C:\Users\lehi_\OneDrive\Escritorio\Actividad_16\Actividad_16\Server\bin\Debug\net6.0\BlazorDebugProxy\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\lehi_\OneDrive\Escritorio\Actividad_16\Actividad_16\Server\bin\Debug\net6.0\BlazorDebugProxy\Microsoft.CodeAnalysis.dll
+C:\Users\lehi_\OneDrive\Escritorio\Actividad_16\Actividad_16\Server\bin\Debug\net6.0\BlazorDebugProxy\Newtonsoft.Json.dll
+C:\Users\lehi_\OneDrive\Escritorio\Actividad_16\Actividad_16\Server\bin\Debug\net6.0\Actividad_16.Server.staticwebassets.runtime.json
+C:\Users\lehi_\OneDrive\Escritorio\Actividad_16\Actividad_16\Server\bin\Debug\net6.0\Actividad_16.Server.exe
+C:\Users\lehi_\OneDrive\Escritorio\Actividad_16\Actividad_16\Server\bin\Debug\net6.0\Actividad_16.Server.deps.json
+C:\Users\lehi_\OneDrive\Escritorio\Actividad_16\Actividad_16\Server\bin\Debug\net6.0\Actividad_16.Server.runtimeconfig.json
+C:\Users\lehi_\OneDrive\Escritorio\Actividad_16\Actividad_16\Server\bin\Debug\net6.0\Actividad_16.Server.dll
+C:\Users\lehi_\OneDrive\Escritorio\Actividad_16\Actividad_16\Server\bin\Debug\net6.0\Actividad_16.Server.pdb
+C:\Users\lehi_\OneDrive\Escritorio\Actividad_16\Actividad_16\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Authorization.dll
+C:\Users\lehi_\OneDrive\Escritorio\Actividad_16\Actividad_16\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.dll
+C:\Users\lehi_\OneDrive\Escritorio\Actividad_16\Actividad_16\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\lehi_\OneDrive\Escritorio\Actividad_16\Actividad_16\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\lehi_\OneDrive\Escritorio\Actividad_16\Actividad_16\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.WebAssembly.dll
+C:\Users\lehi_\OneDrive\Escritorio\Actividad_16\Actividad_16\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.WebAssembly.Server.dll
+C:\Users\lehi_\OneDrive\Escritorio\Actividad_16\Actividad_16\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Metadata.dll
+C:\Users\lehi_\OneDrive\Escritorio\Actividad_16\Actividad_16\Server\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\lehi_\OneDrive\Escritorio\Actividad_16\Actividad_16\Server\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\lehi_\OneDrive\Escritorio\Actividad_16\Actividad_16\Server\bin\Debug\net6.0\Microsoft.JSInterop.dll
+C:\Users\lehi_\OneDrive\Escritorio\Actividad_16\Actividad_16\Server\bin\Debug\net6.0\Microsoft.JSInterop.WebAssembly.dll
+C:\Users\lehi_\OneDrive\Escritorio\Actividad_16\Actividad_16\Server\bin\Debug\net6.0\System.IO.Pipelines.dll
+C:\Users\lehi_\OneDrive\Escritorio\Actividad_16\Actividad_16\Server\bin\Debug\net6.0\Actividad_16.Client.dll
+C:\Users\lehi_\OneDrive\Escritorio\Actividad_16\Actividad_16\Server\bin\Debug\net6.0\Actividad_16.Shared.dll
+C:\Users\lehi_\OneDrive\Escritorio\Actividad_16\Actividad_16\Server\bin\Debug\net6.0\Actividad_16.Client.pdb
+C:\Users\lehi_\OneDrive\Escritorio\Actividad_16\Actividad_16\Server\bin\Debug\net6.0\Actividad_16.Shared.pdb
+C:\Users\lehi_\OneDrive\Escritorio\Actividad_16\Actividad_16\Server\obj\Debug\net6.0\Actividad_16.Server.csproj.AssemblyReference.cache
+C:\Users\lehi_\OneDrive\Escritorio\Actividad_16\Actividad_16\Server\obj\Debug\net6.0\Actividad_16.Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lehi_\OneDrive\Escritorio\Actividad_16\Actividad_16\Server\obj\Debug\net6.0\Actividad_16.Server.AssemblyInfoInputs.cache
+C:\Users\lehi_\OneDrive\Escritorio\Actividad_16\Actividad_16\Server\obj\Debug\net6.0\Actividad_16.Server.AssemblyInfo.cs
+C:\Users\lehi_\OneDrive\Escritorio\Actividad_16\Actividad_16\Server\obj\Debug\net6.0\Actividad_16.Server.csproj.CoreCompileInputs.cache
+C:\Users\lehi_\OneDrive\Escritorio\Actividad_16\Actividad_16\Server\obj\Debug\net6.0\Actividad_16.Server.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\lehi_\OneDrive\Escritorio\Actividad_16\Actividad_16\Server\obj\Debug\net6.0\Actividad_16.Server.RazorAssemblyInfo.cache
+C:\Users\lehi_\OneDrive\Escritorio\Actividad_16\Actividad_16\Server\obj\Debug\net6.0\Actividad_16.Server.RazorAssemblyInfo.cs
+C:\Users\lehi_\OneDrive\Escritorio\Actividad_16\Actividad_16\Server\obj\Debug\net6.0\staticwebassets\msbuild.Actividad_16.Server.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\lehi_\OneDrive\Escritorio\Actividad_16\Actividad_16\Server\obj\Debug\net6.0\staticwebassets\msbuild.build.Actividad_16.Server.props
+C:\Users\lehi_\OneDrive\Escritorio\Actividad_16\Actividad_16\Server\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Actividad_16.Server.props
+C:\Users\lehi_\OneDrive\Escritorio\Actividad_16\Actividad_16\Server\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Actividad_16.Server.props
+C:\Users\lehi_\OneDrive\Escritorio\Actividad_16\Actividad_16\Server\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\lehi_\OneDrive\Escritorio\Actividad_16\Actividad_16\Server\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\lehi_\OneDrive\Escritorio\Actividad_16\Actividad_16\Server\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\lehi_\OneDrive\Escritorio\Actividad_16\Actividad_16\Server\obj\Debug\net6.0\scopedcss\bundle\Actividad_16.Server.styles.css
+C:\Users\lehi_\OneDrive\Escritorio\Actividad_16\Actividad_16\Server\obj\Debug\net6.0\Actividad_16.Server.csproj.CopyComplete
+C:\Users\lehi_\OneDrive\Escritorio\Actividad_16\Actividad_16\Server\obj\Debug\net6.0\Actividad_16.Server.dll
+C:\Users\lehi_\OneDrive\Escritorio\Actividad_16\Actividad_16\Server\obj\Debug\net6.0\refint\Actividad_16.Server.dll
+C:\Users\lehi_\OneDrive\Escritorio\Actividad_16\Actividad_16\Server\obj\Debug\net6.0\Actividad_16.Server.pdb
+C:\Users\lehi_\OneDrive\Escritorio\Actividad_16\Actividad_16\Server\obj\Debug\net6.0\Actividad_16.Server.genruntimeconfig.cache
+C:\Users\lehi_\OneDrive\Escritorio\Actividad_16\Actividad_16\Server\obj\Debug\net6.0\ref\Actividad_16.Server.dll
+C:\Users\avizc\Desktop\Actividad_16\Actividad_16\Server\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\avizc\Desktop\Actividad_16\Actividad_16\Server\bin\Debug\net6.0\appsettings.json
+C:\Users\avizc\Desktop\Actividad_16\Actividad_16\Server\bin\Debug\net6.0\BlazorDebugProxy\BrowserDebugHost.dll
+C:\Users\avizc\Desktop\Actividad_16\Actividad_16\Server\bin\Debug\net6.0\BlazorDebugProxy\BrowserDebugHost.runtimeconfig.json
+C:\Users\avizc\Desktop\Actividad_16\Actividad_16\Server\bin\Debug\net6.0\BlazorDebugProxy\BrowserDebugProxy.dll
+C:\Users\avizc\Desktop\Actividad_16\Actividad_16\Server\bin\Debug\net6.0\BlazorDebugProxy\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\avizc\Desktop\Actividad_16\Actividad_16\Server\bin\Debug\net6.0\BlazorDebugProxy\Microsoft.CodeAnalysis.dll
+C:\Users\avizc\Desktop\Actividad_16\Actividad_16\Server\bin\Debug\net6.0\BlazorDebugProxy\Newtonsoft.Json.dll
+C:\Users\avizc\Desktop\Actividad_16\Actividad_16\Server\bin\Debug\net6.0\Actividad_16.Client.staticwebassets.runtime.json
+C:\Users\avizc\Desktop\Actividad_16\Actividad_16\Server\bin\Debug\net6.0\Actividad_16.Server.staticwebassets.runtime.json
+C:\Users\avizc\Desktop\Actividad_16\Actividad_16\Server\bin\Debug\net6.0\Actividad_16.Server.exe
+C:\Users\avizc\Desktop\Actividad_16\Actividad_16\Server\bin\Debug\net6.0\Actividad_16.Server.deps.json
+C:\Users\avizc\Desktop\Actividad_16\Actividad_16\Server\bin\Debug\net6.0\Actividad_16.Server.runtimeconfig.json
+C:\Users\avizc\Desktop\Actividad_16\Actividad_16\Server\bin\Debug\net6.0\Actividad_16.Server.dll
+C:\Users\avizc\Desktop\Actividad_16\Actividad_16\Server\bin\Debug\net6.0\Actividad_16.Server.pdb
+C:\Users\avizc\Desktop\Actividad_16\Actividad_16\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Authorization.dll
+C:\Users\avizc\Desktop\Actividad_16\Actividad_16\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.dll
+C:\Users\avizc\Desktop\Actividad_16\Actividad_16\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\avizc\Desktop\Actividad_16\Actividad_16\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\avizc\Desktop\Actividad_16\Actividad_16\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.WebAssembly.dll
+C:\Users\avizc\Desktop\Actividad_16\Actividad_16\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.WebAssembly.Server.dll
+C:\Users\avizc\Desktop\Actividad_16\Actividad_16\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Metadata.dll
+C:\Users\avizc\Desktop\Actividad_16\Actividad_16\Server\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\avizc\Desktop\Actividad_16\Actividad_16\Server\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\avizc\Desktop\Actividad_16\Actividad_16\Server\bin\Debug\net6.0\Microsoft.JSInterop.dll
+C:\Users\avizc\Desktop\Actividad_16\Actividad_16\Server\bin\Debug\net6.0\Microsoft.JSInterop.WebAssembly.dll
+C:\Users\avizc\Desktop\Actividad_16\Actividad_16\Server\bin\Debug\net6.0\System.IO.Pipelines.dll
+C:\Users\avizc\Desktop\Actividad_16\Actividad_16\Server\bin\Debug\net6.0\Actividad_16.Client.dll
+C:\Users\avizc\Desktop\Actividad_16\Actividad_16\Server\bin\Debug\net6.0\Actividad_16.Shared.dll
+C:\Users\avizc\Desktop\Actividad_16\Actividad_16\Server\bin\Debug\net6.0\Actividad_16.Client.pdb
+C:\Users\avizc\Desktop\Actividad_16\Actividad_16\Server\bin\Debug\net6.0\Actividad_16.Shared.pdb
+C:\Users\avizc\Desktop\Actividad_16\Actividad_16\Server\obj\Debug\net6.0\Actividad_16.Server.csproj.AssemblyReference.cache
+C:\Users\avizc\Desktop\Actividad_16\Actividad_16\Server\obj\Debug\net6.0\Actividad_16.Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\avizc\Desktop\Actividad_16\Actividad_16\Server\obj\Debug\net6.0\Actividad_16.Server.AssemblyInfoInputs.cache
+C:\Users\avizc\Desktop\Actividad_16\Actividad_16\Server\obj\Debug\net6.0\Actividad_16.Server.AssemblyInfo.cs
+C:\Users\avizc\Desktop\Actividad_16\Actividad_16\Server\obj\Debug\net6.0\Actividad_16.Server.csproj.CoreCompileInputs.cache
+C:\Users\avizc\Desktop\Actividad_16\Actividad_16\Server\obj\Debug\net6.0\Actividad_16.Server.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\avizc\Desktop\Actividad_16\Actividad_16\Server\obj\Debug\net6.0\Actividad_16.Server.RazorAssemblyInfo.cache
+C:\Users\avizc\Desktop\Actividad_16\Actividad_16\Server\obj\Debug\net6.0\Actividad_16.Server.RazorAssemblyInfo.cs
+C:\Users\avizc\Desktop\Actividad_16\Actividad_16\Server\obj\Debug\net6.0\staticwebassets\msbuild.Actividad_16.Server.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\avizc\Desktop\Actividad_16\Actividad_16\Server\obj\Debug\net6.0\staticwebassets\msbuild.build.Actividad_16.Server.props
+C:\Users\avizc\Desktop\Actividad_16\Actividad_16\Server\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Actividad_16.Server.props
+C:\Users\avizc\Desktop\Actividad_16\Actividad_16\Server\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Actividad_16.Server.props
+C:\Users\avizc\Desktop\Actividad_16\Actividad_16\Server\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\avizc\Desktop\Actividad_16\Actividad_16\Server\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\avizc\Desktop\Actividad_16\Actividad_16\Server\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\avizc\Desktop\Actividad_16\Actividad_16\Server\obj\Debug\net6.0\scopedcss\bundle\Actividad_16.Server.styles.css
+C:\Users\avizc\Desktop\Actividad_16\Actividad_16\Server\obj\Debug\net6.0\Actividad_16.Server.csproj.CopyComplete
+C:\Users\avizc\Desktop\Actividad_16\Actividad_16\Server\obj\Debug\net6.0\Actividad_16.Server.dll
+C:\Users\avizc\Desktop\Actividad_16\Actividad_16\Server\obj\Debug\net6.0\refint\Actividad_16.Server.dll
+C:\Users\avizc\Desktop\Actividad_16\Actividad_16\Server\obj\Debug\net6.0\Actividad_16.Server.pdb
+C:\Users\avizc\Desktop\Actividad_16\Actividad_16\Server\obj\Debug\net6.0\Actividad_16.Server.genruntimeconfig.cache
+C:\Users\avizc\Desktop\Actividad_16\Actividad_16\Server\obj\Debug\net6.0\ref\Actividad_16.Server.dll
+C:\Users\avizc\OneDrive - Universidad de Colima\Documentos\Facultad de Telematica\4to Semestre\Programación web\Actividad_16\Actividad_16\Server\bin\Debug\net6.0\BlazorDebugProxy\BrowserDebugHost.dll
+C:\Users\avizc\OneDrive - Universidad de Colima\Documentos\Facultad de Telematica\4to Semestre\Programación web\Actividad_16\Actividad_16\Server\bin\Debug\net6.0\BlazorDebugProxy\BrowserDebugHost.runtimeconfig.json
+C:\Users\avizc\OneDrive - Universidad de Colima\Documentos\Facultad de Telematica\4to Semestre\Programación web\Actividad_16\Actividad_16\Server\bin\Debug\net6.0\BlazorDebugProxy\BrowserDebugProxy.dll
+C:\Users\avizc\OneDrive - Universidad de Colima\Documentos\Facultad de Telematica\4to Semestre\Programación web\Actividad_16\Actividad_16\Server\bin\Debug\net6.0\BlazorDebugProxy\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\avizc\OneDrive - Universidad de Colima\Documentos\Facultad de Telematica\4to Semestre\Programación web\Actividad_16\Actividad_16\Server\bin\Debug\net6.0\BlazorDebugProxy\Microsoft.CodeAnalysis.dll
+C:\Users\avizc\OneDrive - Universidad de Colima\Documentos\Facultad de Telematica\4to Semestre\Programación web\Actividad_16\Actividad_16\Server\bin\Debug\net6.0\BlazorDebugProxy\Newtonsoft.Json.dll
+C:\Users\avizc\OneDrive - Universidad de Colima\Documentos\Facultad de Telematica\4to Semestre\Programación web\Actividad_16\Actividad_16\Server\bin\Debug\net6.0\Actividad_16.Client.staticwebassets.runtime.json
+C:\Users\avizc\OneDrive - Universidad de Colima\Documentos\Facultad de Telematica\4to Semestre\Programación web\Actividad_16\Actividad_16\Server\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\avizc\OneDrive - Universidad de Colima\Documentos\Facultad de Telematica\4to Semestre\Programación web\Actividad_16\Actividad_16\Server\bin\Debug\net6.0\appsettings.json
+C:\Users\avizc\OneDrive - Universidad de Colima\Documentos\Facultad de Telematica\4to Semestre\Programación web\Actividad_16\Actividad_16\Server\bin\Debug\net6.0\Actividad_16.Server.staticwebassets.runtime.json
+C:\Users\avizc\OneDrive - Universidad de Colima\Documentos\Facultad de Telematica\4to Semestre\Programación web\Actividad_16\Actividad_16\Server\bin\Debug\net6.0\Actividad_16.Server.exe
+C:\Users\avizc\OneDrive - Universidad de Colima\Documentos\Facultad de Telematica\4to Semestre\Programación web\Actividad_16\Actividad_16\Server\bin\Debug\net6.0\Actividad_16.Server.deps.json
+C:\Users\avizc\OneDrive - Universidad de Colima\Documentos\Facultad de Telematica\4to Semestre\Programación web\Actividad_16\Actividad_16\Server\bin\Debug\net6.0\Actividad_16.Server.runtimeconfig.json
+C:\Users\avizc\OneDrive - Universidad de Colima\Documentos\Facultad de Telematica\4to Semestre\Programación web\Actividad_16\Actividad_16\Server\bin\Debug\net6.0\Actividad_16.Server.dll
+C:\Users\avizc\OneDrive - Universidad de Colima\Documentos\Facultad de Telematica\4to Semestre\Programación web\Actividad_16\Actividad_16\Server\bin\Debug\net6.0\Actividad_16.Server.pdb
+C:\Users\avizc\OneDrive - Universidad de Colima\Documentos\Facultad de Telematica\4to Semestre\Programación web\Actividad_16\Actividad_16\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Authorization.dll
+C:\Users\avizc\OneDrive - Universidad de Colima\Documentos\Facultad de Telematica\4to Semestre\Programación web\Actividad_16\Actividad_16\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.dll
+C:\Users\avizc\OneDrive - Universidad de Colima\Documentos\Facultad de Telematica\4to Semestre\Programación web\Actividad_16\Actividad_16\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\avizc\OneDrive - Universidad de Colima\Documentos\Facultad de Telematica\4to Semestre\Programación web\Actividad_16\Actividad_16\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\avizc\OneDrive - Universidad de Colima\Documentos\Facultad de Telematica\4to Semestre\Programación web\Actividad_16\Actividad_16\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.WebAssembly.dll
+C:\Users\avizc\OneDrive - Universidad de Colima\Documentos\Facultad de Telematica\4to Semestre\Programación web\Actividad_16\Actividad_16\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.WebAssembly.Server.dll
+C:\Users\avizc\OneDrive - Universidad de Colima\Documentos\Facultad de Telematica\4to Semestre\Programación web\Actividad_16\Actividad_16\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Metadata.dll
+C:\Users\avizc\OneDrive - Universidad de Colima\Documentos\Facultad de Telematica\4to Semestre\Programación web\Actividad_16\Actividad_16\Server\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\avizc\OneDrive - Universidad de Colima\Documentos\Facultad de Telematica\4to Semestre\Programación web\Actividad_16\Actividad_16\Server\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\avizc\OneDrive - Universidad de Colima\Documentos\Facultad de Telematica\4to Semestre\Programación web\Actividad_16\Actividad_16\Server\bin\Debug\net6.0\Microsoft.JSInterop.dll
+C:\Users\avizc\OneDrive - Universidad de Colima\Documentos\Facultad de Telematica\4to Semestre\Programación web\Actividad_16\Actividad_16\Server\bin\Debug\net6.0\Microsoft.JSInterop.WebAssembly.dll
+C:\Users\avizc\OneDrive - Universidad de Colima\Documentos\Facultad de Telematica\4to Semestre\Programación web\Actividad_16\Actividad_16\Server\bin\Debug\net6.0\System.IO.Pipelines.dll
+C:\Users\avizc\OneDrive - Universidad de Colima\Documentos\Facultad de Telematica\4to Semestre\Programación web\Actividad_16\Actividad_16\Server\bin\Debug\net6.0\Actividad_16.Client.dll
+C:\Users\avizc\OneDrive - Universidad de Colima\Documentos\Facultad de Telematica\4to Semestre\Programación web\Actividad_16\Actividad_16\Server\bin\Debug\net6.0\Actividad_16.Shared.dll
+C:\Users\avizc\OneDrive - Universidad de Colima\Documentos\Facultad de Telematica\4to Semestre\Programación web\Actividad_16\Actividad_16\Server\bin\Debug\net6.0\Actividad_16.Client.pdb
+C:\Users\avizc\OneDrive - Universidad de Colima\Documentos\Facultad de Telematica\4to Semestre\Programación web\Actividad_16\Actividad_16\Server\bin\Debug\net6.0\Actividad_16.Shared.pdb
+C:\Users\avizc\OneDrive - Universidad de Colima\Documentos\Facultad de Telematica\4to Semestre\Programación web\Actividad_16\Actividad_16\Server\obj\Debug\net6.0\Actividad_16.Server.csproj.AssemblyReference.cache
+C:\Users\avizc\OneDrive - Universidad de Colima\Documentos\Facultad de Telematica\4to Semestre\Programación web\Actividad_16\Actividad_16\Server\obj\Debug\net6.0\Actividad_16.Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\avizc\OneDrive - Universidad de Colima\Documentos\Facultad de Telematica\4to Semestre\Programación web\Actividad_16\Actividad_16\Server\obj\Debug\net6.0\Actividad_16.Server.AssemblyInfoInputs.cache
+C:\Users\avizc\OneDrive - Universidad de Colima\Documentos\Facultad de Telematica\4to Semestre\Programación web\Actividad_16\Actividad_16\Server\obj\Debug\net6.0\Actividad_16.Server.AssemblyInfo.cs
+C:\Users\avizc\OneDrive - Universidad de Colima\Documentos\Facultad de Telematica\4to Semestre\Programación web\Actividad_16\Actividad_16\Server\obj\Debug\net6.0\Actividad_16.Server.csproj.CoreCompileInputs.cache
+C:\Users\avizc\OneDrive - Universidad de Colima\Documentos\Facultad de Telematica\4to Semestre\Programación web\Actividad_16\Actividad_16\Server\obj\Debug\net6.0\Actividad_16.Server.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\avizc\OneDrive - Universidad de Colima\Documentos\Facultad de Telematica\4to Semestre\Programación web\Actividad_16\Actividad_16\Server\obj\Debug\net6.0\Actividad_16.Server.RazorAssemblyInfo.cache
+C:\Users\avizc\OneDrive - Universidad de Colima\Documentos\Facultad de Telematica\4to Semestre\Programación web\Actividad_16\Actividad_16\Server\obj\Debug\net6.0\Actividad_16.Server.RazorAssemblyInfo.cs
+C:\Users\avizc\OneDrive - Universidad de Colima\Documentos\Facultad de Telematica\4to Semestre\Programación web\Actividad_16\Actividad_16\Server\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\avizc\OneDrive - Universidad de Colima\Documentos\Facultad de Telematica\4to Semestre\Programación web\Actividad_16\Actividad_16\Server\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\avizc\OneDrive - Universidad de Colima\Documentos\Facultad de Telematica\4to Semestre\Programación web\Actividad_16\Actividad_16\Server\obj\Debug\net6.0\staticwebassets\msbuild.Actividad_16.Server.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\avizc\OneDrive - Universidad de Colima\Documentos\Facultad de Telematica\4to Semestre\Programación web\Actividad_16\Actividad_16\Server\obj\Debug\net6.0\staticwebassets\msbuild.build.Actividad_16.Server.props
+C:\Users\avizc\OneDrive - Universidad de Colima\Documentos\Facultad de Telematica\4to Semestre\Programación web\Actividad_16\Actividad_16\Server\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Actividad_16.Server.props
+C:\Users\avizc\OneDrive - Universidad de Colima\Documentos\Facultad de Telematica\4to Semestre\Programación web\Actividad_16\Actividad_16\Server\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Actividad_16.Server.props
+C:\Users\avizc\OneDrive - Universidad de Colima\Documentos\Facultad de Telematica\4to Semestre\Programación web\Actividad_16\Actividad_16\Server\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\avizc\OneDrive - Universidad de Colima\Documentos\Facultad de Telematica\4to Semestre\Programación web\Actividad_16\Actividad_16\Server\obj\Debug\net6.0\scopedcss\bundle\Actividad_16.Server.styles.css
+C:\Users\avizc\OneDrive - Universidad de Colima\Documentos\Facultad de Telematica\4to Semestre\Programación web\Actividad_16\Actividad_16\Server\obj\Debug\net6.0\Actividad_16.Server.csproj.CopyComplete
+C:\Users\avizc\OneDrive - Universidad de Colima\Documentos\Facultad de Telematica\4to Semestre\Programación web\Actividad_16\Actividad_16\Server\obj\Debug\net6.0\Actividad_16.Server.dll
+C:\Users\avizc\OneDrive - Universidad de Colima\Documentos\Facultad de Telematica\4to Semestre\Programación web\Actividad_16\Actividad_16\Server\obj\Debug\net6.0\refint\Actividad_16.Server.dll
+C:\Users\avizc\OneDrive - Universidad de Colima\Documentos\Facultad de Telematica\4to Semestre\Programación web\Actividad_16\Actividad_16\Server\obj\Debug\net6.0\Actividad_16.Server.pdb
+C:\Users\avizc\OneDrive - Universidad de Colima\Documentos\Facultad de Telematica\4to Semestre\Programación web\Actividad_16\Actividad_16\Server\obj\Debug\net6.0\Actividad_16.Server.genruntimeconfig.cache
+C:\Users\avizc\OneDrive - Universidad de Colima\Documentos\Facultad de Telematica\4to Semestre\Programación web\Actividad_16\Actividad_16\Server\obj\Debug\net6.0\ref\Actividad_16.Server.dll

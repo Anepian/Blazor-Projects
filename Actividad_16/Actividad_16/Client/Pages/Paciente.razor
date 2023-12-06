@@ -1,0 +1,34 @@
+﻿@page "/Pacientes"
+@inject HttpClient _http
+
+<h3>Cliente</h3>
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>Nombre</th>
+            <th>Direccion</th>
+            <th>Correo Electronico</th>
+            <th>Numero de Seguro Social</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (Pacientes a in p)
+        {
+            <tr>
+                <td>@a.nombre</td>
+                <td>@a.direccion</td>
+                <td>@a.correo</td>
+                <td>@a.ns</td>
+
+            </tr>
+        }
+    </tbody>
+</table>
+
+
+
+@code {
+    private List<Pacientes>? p = new List<Pacientes>();
+    protected override async Task OnInitializedAsync() => p = await _http.GetFromJsonAsync<List<Pacientes>>("api/pacientes");
+}

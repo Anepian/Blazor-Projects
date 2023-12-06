@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "ND5y9pukdD7Vf6FV6h1REnea+VcaK0k0c7Pwpfb92JUcvmTZj7CnIM6ThWbB3Xo+18LgWOuMOL1ZkS6BumWLvg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\avizc\\OneDrive - Universidad de Colima\\Documentos\\Facultad de Telematica\\4to Semestre\\Programación web\\Actividad_16\\Actividad_16\\Shared\\Actividad_16.Shared.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\avizc\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\avizc\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\avizc\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}
